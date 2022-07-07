@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <path stroke="#B9BBBE" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" id="Line_1" data-name="Line 1" class="cls-1" d="M115.187,85.947h0.626V116h-0.626V85.947Zm-103,0h0.626V116H12.187V85.947Z"/>
+  <path stroke="#B9BBBE" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" id="Line_2" data-name="Line 2" class="cls-1" d="M12,117v-1H116v1H12Z"/>
+  <path stroke="#B9BBBE" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" id="Line_3" data-name="Line 3" class="cls-1" d="M63,10h1V99H63V10Z"/>
+  <path stroke="#B9BBBE" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" id="Line_3-2" data-name="Line 3" class="cls-2" d="M38.1,75.293l0.707-.707,24.1,24.1-0.707.707Zm50.1-.707,0.707,0.707-24.1,24.1L64.1,98.688Z"/>
+</svg>
